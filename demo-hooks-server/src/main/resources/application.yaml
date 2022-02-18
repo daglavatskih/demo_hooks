@@ -1,0 +1,3 @@
+spring:
+  autoconfigure:
+    exclude: ru.test.demo.hooks.ConfigurationReference

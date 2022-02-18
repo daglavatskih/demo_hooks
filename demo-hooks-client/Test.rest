@@ -1,0 +1,7 @@
+
+### get test async
+
+GET http://localhost:8081/test?message=testmsg123
+
+###
+
